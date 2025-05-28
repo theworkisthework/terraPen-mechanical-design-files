@@ -6,4 +6,4 @@ There are 2 files for FreeCad v1.0.1, one containing the plotter head, the other
 
 The plotter head should be printed with ABS and the pen holder insert sould be printed using TPU, I use TPU 95A.  I use a 0.2mm nozzle for the ABS and 0.6mm nozzle for the TPU.
 
-The plotter head CAD file is parametric, you can open the variable set and modify the top and bottom diameters to fit your pen.  There are some limitations on the range of values and the bottom diameter always must be equal or larger to the top diameter value or the model breaks.
+The plotter head CAD file is parametric, you can open the variable set and modify the top and bottom diameters to fit your pen.
