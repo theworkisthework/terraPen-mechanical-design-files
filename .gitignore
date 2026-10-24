@@ -1,1 +1,5 @@
 .DS_Store
+
+# Internal priced BOMs, not for the repo
+*BOM INTERNAL*
+~$*
